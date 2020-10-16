@@ -1,0 +1,6 @@
+export ORACLE_SID=orclcdb
+export ORACLE_HOME=/u01/app/oracle/product/version/db_1
+export PATH=$ORACLE_HOME/bin:$PATH
+set -o vi
+export EDITOR=vi
+export TWO_TASK=
